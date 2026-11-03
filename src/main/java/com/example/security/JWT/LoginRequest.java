@@ -4,7 +4,7 @@ import jakarta.persistence.Entity;
 import lombok.*;
 import org.springframework.security.config.annotation.method.configuration.EnableMethodSecurity;
 
-@Entity
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
